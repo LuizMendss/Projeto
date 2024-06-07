@@ -1,0 +1,171 @@
+* {
+    font-family: 'Tahoma';
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(Screenshot_2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    height: 55%;
+}
+
+.texto h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    margin: 20px;
+}
+
+.texto h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.botao-teste {
+    background-color: rgb(255, 206, 116);
+    width: 230px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    height: 130px;
+    margin: 0 25px;
+    font-size: 30px;
+    margin-bottom: 50px;
+    border-color: rgb(255, 255, 255);
+}
+
+.botao-teste:hover {
+    background-color: wheat;
+    border-color: orange;
+}
+
+.botao-teste2 {
+    background-color: rgb(255, 206, 116);
+    width: 230px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    height: 130px;
+    margin: 0 25px;
+    font-size: 30px;
+    margin-bottom: 40px;
+    border-color: rgb(255, 255, 255);
+}
+
+.botao-teste2:hover {
+    background-color: wheat;
+    border-color: orange;
+}
+
+.botao-teste3 {
+    background-color: rgb(255, 206, 116);
+    width: 230px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    height: 130px;
+    margin: 0 25px;
+    font-size: 30px;
+    margin-bottom: 40px;
+    border-color: rgb(255, 255, 255);
+}
+
+.botao-teste3:hover {
+    background-color: wheat;
+    border-color: orange;
+}
+
+.botoes2 {
+    justify-content: center;
+    display: flex;
+}
+
+.botao-teste4 {
+    background-color: rgb(255, 206, 116);
+    width: 230px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    height: 130px;
+    margin: 0 25px;
+    font-size: 30px;
+    
+    border-color: rgb(255, 255, 255);
+}
+
+.botao-teste4:hover {
+    background-color: wheat;
+    border-color: orange;
+}
+
+.botao-teste5 {
+    background-color: rgb(255, 206, 116);
+    width: 230px;
+    cursor: pointer;
+    border-radius: 15px;
+    color: rgb(0, 0, 0);
+    height: 130px;
+    margin: 0 25px;
+    font-size: 30px;
+    border-color: rgb(255, 255, 255);
+}
+
+.botao-teste5:hover {
+    background-color: wheat;
+    border-color: orange;
+}
+
+.sair {
+    top: 100px;
+    left: 30px;
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: fantasy;
+    cursor: pointer;
+    position: absolute;
+    align-items: bottom;
+    background-color: rgb(255, 206, 116);
+    color: rgb(0, 0, 0);
+    border-color: white;
+}
+
+.sair:hover {
+    background-color: red;
+    border-color: black;
+}
+
+.cima {
+    top: 0;
+    left: 0;
+    height: 70px;
+    width: 100%;
+    font-size: 20px;
+    font-family: fantasy;
+    position: absolute;
+    align-items: bottom;
+    background-color: rgb(255, 206, 116);
+    color: rgb(0, 0, 0);
+}
+
+.cima h1 {
+    font-size: 50px;
+    margin-left: 15px;
+}
+
+
+
+
